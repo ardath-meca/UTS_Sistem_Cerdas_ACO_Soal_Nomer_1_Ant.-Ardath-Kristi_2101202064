@@ -1,0 +1,1 @@
+# UTS_Sistem_Cerdas_ACO_Soal_Nomer_1_Ant.-Ardath-Kristi_2101202064
