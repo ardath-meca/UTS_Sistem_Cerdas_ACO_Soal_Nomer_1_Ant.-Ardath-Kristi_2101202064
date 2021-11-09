@@ -1,0 +1,6 @@
+Terimakasih untuk materi yang di tampilkan di chanel youtube https://www.youtube.com/watch?v=6QrJU-F4K4s sangat jelas 
+sehingga membantu dalam pengerjaan UTS Sistem Cerdas.
+
+Dan terimakasih untuk file github yang sudah di berikan
+
+https://github.com/hpurnomo/Metaheuristics/blob/master/Example_GA_TSP.ipynb
